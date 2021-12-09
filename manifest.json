@@ -1,0 +1,9 @@
+{
+    "name": "Navigator", 
+    "description": "Keep track of your most important tabs for 24 hours, then remove it.", 
+    "version": "1.0", 
+    "manifest_version": 3, 
+    "action":{
+        "default_popup": "popup.html"
+    }
+}
