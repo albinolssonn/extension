@@ -41,6 +41,19 @@ p{
     margin-bottom: 10px; /* Denna ska ändras på sista kortet för symmetri */
 }
 
+.offer_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.offer_logo{
+    text-align: right;
+}
+
+#logo{
+    width: 120px;
+}
+
 .bottom_content{
     padding: 10px 15px 10px 15px; 
     border-top: 0.5px solid #c5c5c5;
@@ -65,6 +78,20 @@ button:hover{
     border-radius: 10px;
 }
 
-#leovegas{
-    background-color: rgb(246, 197, 106);
+/* Different Company Graphics */
+
+#unibet{
+    background-color: #147B45;
+    color: #fff;
+
+}
+
+#betsson{
+    background-color: #F76C0F;
+    color: #fff;
+}
+
+#nordicbet{
+    background-color: #066CAE;
+    color: #fff;
 }
