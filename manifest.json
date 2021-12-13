@@ -1,9 +1,12 @@
 {
-    "name": "Navigator", 
+    "name": "Affiliate", 
     "description": "Keep track of your most important tabs for 24 hours, then remove it.", 
     "version": "1.0", 
     "manifest_version": 3, 
     "action":{
         "default_popup": "popup.html"
-    }
+    }, 
+    "icons": { "16": "/img/logo16.png",
+        "48": "/img/logo48.png",
+       "128": "/img/logo128.png" }
 }
