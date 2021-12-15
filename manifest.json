@@ -6,7 +6,7 @@
     "action":{
         "default_popup": "popup.html"
     }, 
-    "icons": { "16": "/img/logo16.png",
-        "48": "/img/logo48.png",
-       "128": "/img/logo128.png" }
+    "icons": { "16": "/img/logo16px.png",
+        "48": "/img/logo48px.png",
+       "128": "/img/logo128px.png" }
 }
