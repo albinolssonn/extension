@@ -1,3 +1,4 @@
 function testfunc(){
-    window.open('https://google.se', '_blank'); 
+    var bkg = chrome.extension.getBackgroundPage(); 
+    bkg.console.log("Funkar"); 
 }
